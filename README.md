@@ -50,6 +50,10 @@ An end-to-end Data Analytics project focused on analyzing customer shopping beha
 - Power BI
 - Data Visualization
 
+## Power BI Dashboard Preview
+
+![Customer Behavior Dashboard](dashboard.png)
+
 Author
 
 Nirupama Bharadwaj
